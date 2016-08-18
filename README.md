@@ -24,3 +24,9 @@ pip3 install slackclient
 sudo apt-get install -y python3
 pip3 install slackclient
 ```
+
+### Bonus
+
+In order to push without entering your password, upload an ssh key to github and make sure that your origin url is set to the ssh version using:
+
+`git remote set-url origin git@github.com:<Username>/<Project>.git`
