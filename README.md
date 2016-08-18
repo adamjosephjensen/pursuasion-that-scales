@@ -1,6 +1,12 @@
-# Pursuasion that Scales
+# Persuasion that Scales
 
 This project matters because good ideas don't have enough proponents.
+
+## About
+
+Talking to one person face-to-face is an inefficient way for good ideas to spread.  It doesn't scale.
+
+This project exists to test the hypothesis: some individuals will be persuaded to change their minds as a result of interacting with a chatbot.
 
 ## Setup
 
@@ -11,7 +17,7 @@ This project requires:
 
 Most installations of python3 include pip3.
 
-### On Mac:
+### Mac
 
 ```
 brew install python3
