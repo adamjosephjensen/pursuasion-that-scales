@@ -11,7 +11,7 @@ This project requires:
 
 Most installations of python3 include pip3.
 
-### On mac:
+### On Mac:
 
 ```
 brew install python3
