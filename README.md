@@ -37,7 +37,7 @@ In order to push without entering your password, upload an ssh key to github and
 
 `git remote set-url origin git@github.com:<Username>/<Project>.git`
 
-## Setup for Containers
+## Setup for Virtual Machines
 
 Make sure the container has an ssh key recognized by github!
 
@@ -45,6 +45,9 @@ Make sure the container has an ssh key recognized by github!
 sudo apt-get install -y git
 sudo apt-get install -y python3
 sudo pip3 install slackclient
+```
+
+```
 git clone git@github.com:toothlessdragon/pursuasion-that-scales.git
 nohup python3 bot.py &
 ```
