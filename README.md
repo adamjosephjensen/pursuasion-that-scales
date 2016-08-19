@@ -8,7 +8,7 @@ Talking to one person face-to-face is an inefficient way for good ideas to sprea
 
 This project exists to test the hypothesis: some individuals will be persuaded to change their minds as a result of interacting with a chatbot.
 
-## Setup
+## Setup For Humans
 
 This project requires:
 
@@ -36,3 +36,15 @@ pip3 install slackclient
 In order to push without entering your password, upload an ssh key to github and make sure that your origin url is set to the ssh version using:
 
 `git remote set-url origin git@github.com:<Username>/<Project>.git`
+
+## Setup for Containers
+
+Make sure the container has an ssh key recognized by github!
+
+```
+sudo apt-get install -y git
+sudo apt-get install -y python3
+sudo pip3 install slackclient
+git clone git@github.com:toothlessdragon/pursuasion-that-scales.git
+nohup python3 bot.py &
+```
