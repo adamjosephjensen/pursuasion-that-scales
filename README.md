@@ -17,14 +17,14 @@ This project requires:
 
 Most installations of python3 include pip3.
 
-### Mac
+### Humans on Mac
 
 ```
 brew install python3
 pip3 install slackclient
 ```
 
-### Ubuntu/Debian
+### Humans Ubuntu/Debian
 
 ```
 sudo apt-get install -y python3
@@ -51,3 +51,5 @@ sudo pip3 install slackclient
 git clone git@github.com:toothlessdragon/pursuasion-that-scales.git
 nohup python3 bot.py &
 ```
+### todo
+* Figure out how to keep the bot alive overnight.  It seems to not survive two days.
