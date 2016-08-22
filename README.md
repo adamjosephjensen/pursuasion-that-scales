@@ -6,7 +6,7 @@ This project matters because good ideas don't have enough proponents.
 
 Talking to one person face-to-face is an inefficient way for good ideas to spread.  It doesn't scale.
 
-This project exists to test the hypothesis: some individuals will be persuaded to change their minds as a result of interacting with a chatbot.
+This project exists to test whether a bot can engage with a human and **achieve more accurate expectations about using oil and gas**.  Beginning a process that results in more accurate expectations eventually, (such as buying a book or joining a mailing list) will also be counted as a win.
 
 ## Setup For Humans
 
@@ -54,7 +54,7 @@ nohup python3 bot.py &
 ### todo
 * Figure out how to keep the bot alive overnight.  It seems to not survive two days.
 
-### Talk to Anyone about Energy
+## Talk to Anyone about Energy
 
 Discussions are like games, they have goals and rules.
 
@@ -64,7 +64,7 @@ The rules always apply.  Both parties in a discussion are players and referees.
 
 A mindfulness: Focus on **method** rather than **content**.
 
-#### Rule 0: Discussions have a Goal
+### Rule 0: Discussions have a Goal
 
 The goal is not:
 * to look or feel smarter
@@ -80,7 +80,7 @@ Put slightly differently, the goal is to **achieve accurate expectations for imp
 
 After a discussion, you may have new information and/or have helped & influenced someone by giving them information.
 
-#### Rule 1: Be clear on the issue / question
+### Rule 1: Be clear on the issue / question
 
 What question are we trying to answer?
 
@@ -94,7 +94,7 @@ You don't help other people or yourself by jumping from question to question.  B
 
 Snippet: "Absolutely I am happy to talk about that, just so I'm clear you mentioned X, Y and Z (e.g. fracking or global warming)."
 
-#### Rule 2: Agree to think big picture
+### Rule 2: Agree to think big picture
 
 I: "Let's talk about groundwater."
 A: "Great.  It's important to investigate risks fracking poses to groundwater.  Would you agree that it's also important to investigate any risks other forms of energy pose to groundwater?  For example, if you found out that manufacturing windmills was poisoning the groundwater you'd be concerned about that too?"
@@ -107,7 +107,7 @@ Affirming the concern is important because it is disarming.
 
 Result: **Conversation is further pre-structured and I am more credible as someone who is concerned with the big picture**.
 
-#### Rule 3: Agree on the moral standard
+### Rule 3: Agree on the moral standard
 
 Agree that the outcome we're after is to maximize human flourishing.
 
@@ -120,7 +120,7 @@ Snippet:
 
 Result: **gained credibility as a humanist**
 
-#### Rule 4: Be honest about what you know and don't know
+### Rule 4: Be honest about what you know and don't know
 
 It is ultra-common to make accusations or claims with no understanding of the issue.  This is unacceptable.  This rule applies to both parties in a discussion.
 
@@ -130,13 +130,13 @@ This one is particularly hard for the bot to follow because it's hard to know wh
 
 Result: **transitioned from attacker to student**
 
-#### Rule 5: Admit our mistakes (content and method) and the mistakes of those we cite
+### Rule 5: Admit our mistakes (content and method) and the mistakes of those we cite
 
 If someone disagrees with the idea that it's important to know something about a process before expressing an strong expectation or evaluation, that's not responsible and they ought to admit that.  Things aren't going to go well if the person isn't willing to admit this.
 
 Result: **transition to step-by-step process of learning**
 
-#### Rule 6: Respect people's mental autonomy
+### Rule 6: Respect people's mental autonomy
 
 When you can tell a story instead of making an assertion, **do it**.
 
@@ -150,7 +150,7 @@ Snippet: I looked around for books about heroes and Atlas Shrugged has some good
 
 Two stories in MCFF: false predictions and the climate issue.
 
-#### Rule 7: the 80:20, 64:4, 51:1 Rule
+### Rule 7: the 80:20, 64:4, 51:1 Rule
 
 Good to look for outrageously high-leverage things.
 
@@ -162,19 +162,19 @@ Share MCFF and when you share, **make it personal**.  Share www.moralcaseforfoss
 
 Snippet: "There's a book on this topic that gave me the big-picture like nothing else did.  I'm telling you this is the best way to learn about the whole issue.  If you don't want to learn that's fine but there's no point in me explaining it worse than the book."
 
-#### Other Dos and Don'ts
+### Other Dos and Don'ts
 
-##### Follow the rules
+#### Follow the rules
 
 It is good for both parties to follow the rules.  It cuts down on digressions, and it enables you to stay on track and reach the goal.
 
-##### Increase your empathy
+#### Increase your empathy
 
 If you are attempting to cover the inferential distance between point A and point B; you need to know as much as you can about *both A and B*.
 
 If you understand the best case for point A, then you will be a lot clearer.  Every false idea has a potential real issue behind it.
 
-##### Increase your clarity
+#### Increase your clarity
 
 The most effective persuaders are characterized by deep clarity and conviction.
 
@@ -182,13 +182,15 @@ To get from A to B, you need to know exactly what the point B is and what steps 
 
 Take clarity seriously.  You can't mess around and spout a lot of haphazard stuff that you don't understand the evidence for.  Have a mental idea of when you are being clear and when you are not.
 
-##### Understand the structure of the effective conversation
+#### Understand the structure of the effective conversation
 
 1. establish the right method
 1. establish the right content
 1. reject the wrong content
 1. reject the wrong method
 
-##### Building your material
+#### Building your material
 
 Alex has a good story, example, analogy, fact, and one liner for **every key issue**.
+
+####
